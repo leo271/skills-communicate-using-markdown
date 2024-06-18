@@ -1,2 +1,4 @@
-# This is a header
-###### This is `<h6>` header that no one uses.
+# これがヘッダーだよ
+###### 誰も使わない`<h6>`ヘッダー
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
